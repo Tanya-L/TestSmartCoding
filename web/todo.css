@@ -1,0 +1,34 @@
+li {
+    list-style-type: none;
+  }
+  
+input.todo-item {
+    margin-left: 10px;
+    margin-right: 10px;
+  }  
+
+button.todo-item {
+    float: right;
+    margin-right: 10px;
+    cursor: pointer;
+    
+    }
+
+.completed {
+    text-decoration: line-through;
+}
+
+body {
+    width: 100%; 
+    height: 100%; 
+    /* margin: 0px;  */
+    margin: 0 auto; 
+    padding: 0 auto; 
+    /* padding: 0px; */
+    /* display: flex; */
+    /* justify-content: center*/
+}
+
+h1 {
+    text-align: center;
+}
